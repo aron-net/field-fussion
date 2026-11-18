@@ -1,0 +1,6 @@
+{
+  "name": "FIELD FUSSION",
+  "description": "Smart farming, simplified. Connected agricultural business management platform for Uganda and Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
